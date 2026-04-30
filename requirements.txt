@@ -1,0 +1,11 @@
+requests
+paramiko
+scapy
+numpy
+pandas
+matplotlib
+cryptography
+tqdm
+pyshark
+nmap
+osint
