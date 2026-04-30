@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.env
+*.log
+*.csv
+
+# OS-specific
+.DS_Store
+
+# Other
+large_datasets/
+.idea/
